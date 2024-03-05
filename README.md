@@ -15,7 +15,7 @@ In this repository, you will find solutions to coding interview questions based 
 Here are the topics covered in this repository:
 
 1. [Pattern 1: Sliding Window](./sliding-window.md)
-2. [Pattern 2: Two Pointers]( /Two%20Pointers/two-pointers.md)
+2. [Pattern 2: Two Pointers]( /TwoPointers/two-pointers.md)
 3. [Pattern 3: Fast and Slow Pointers](./fast-slow-pointers.md)
 4. [Pattern 4: Merge Intervals](./merge-intervals.md)
 5. [Pattern 5: Cyclic Sort](./cyclic-sort.md)
