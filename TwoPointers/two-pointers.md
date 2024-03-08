@@ -5,12 +5,12 @@ This folder contains coding problems related to the "Two Pointers" technique, wh
 ## Problem List
 
 1. Problem 1: [Valid Palindrome](valid_palindrome.cpp)
-    - Description: Brief description of the problem.
-    - Difficulty: Easy/Medium/Hard
+    - Description: Check if the word is palindrome or not
+    - Difficulty: Easy
 
-2. Problem 2: [Problem Name](problem2.md)
-    - Description: Brief description of the problem.
-    - Difficulty: Easy/Medium/Hard
+2. Problem 2: [Sum of three values](sum_of_three_values.cpp)
+    - Description: Check if we can find the sum of 3 values inside an array
+    - Difficulty: Easy
 
 3. Problem 3: [Problem Name](problem3.md)
     - Description: Brief description of the problem.
