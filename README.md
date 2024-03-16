@@ -27,6 +27,17 @@ Here are the topics covered in this repository:
 
 Feel free to explore each topic and practice solving the coding interview questions associated with them.
 
+
+## Skills to be covered while practicing
+
+Here are some additional skills you can cover while practicing:
+
+- [ ] Familiarize yourself with GCC compilers and learn how to compile and run C++ code using them.
+- [ ] Explore GTest, a popular C++ testing framework, to create unit tests for your code.
+- [ ] Learn how to use CMake, a cross-platform build system, to automate the build process of your C++ projects.
+
+By mastering these skills, you will enhance your coding abilities and be well-prepared for coding interviews.
+
 ## Additional Resources
 
 If you prefer learning in other programming languages, the course is also available in JavaScript, Java, Python, and Go. You can find the respective repositories for each language on the [Grokking Coding Interview Patterns](https://www.educative.io/courses/grokking-coding-interview-patterns-cpp) course page.
