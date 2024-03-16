@@ -12,9 +12,9 @@ This folder contains coding problems related to the "Two Pointers" technique, wh
     - Description: Check if we can find the sum of 3 values inside an array
     - Difficulty: Easy
 
-3. Problem 3: [Problem Name](problem3.md)
-    - Description: Brief description of the problem.
-    - Difficulty: Easy/Medium/Hard
+3. Problem 3: [Sorting Colors](sorting_colors.cpp)
+    - Description: Sorts an array of colors in-place using the two pointers technique. It involves using two pointers to traverse the array from both ends towards the middle. This technique is commonly used to solve problems that involve searching, sorting, or manipulating arrays. The swap method can be used to swap elements in the array.
+    - Difficulty: Easy
 
 ...
 
