@@ -16,6 +16,10 @@ This folder contains coding problems related to the "Two Pointers" technique, wh
     - Description: Sorts an array of colors in-place using the two pointers technique. It involves using two pointers to traverse the array from both ends towards the middle. This technique is commonly used to solve problems that involve searching, sorting, or manipulating arrays. The swap method can be used to swap elements in the array.
     - Difficulty: Easy
 
+4. Problem 4: [Reverse Words](Reverse-Words.cpp)
+    - Description: Reverse the words in a sentence
+    - Difficulty: Easy
+
 ...
 
 ## Getting Started
